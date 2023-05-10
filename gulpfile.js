@@ -1,3 +1,4 @@
+//npm install gulp gulp-ejs gulp-rename --save-dev
 const gulp = require('gulp');
 const ejs = require('gulp-ejs');
 const rename = require('gulp-rename');
